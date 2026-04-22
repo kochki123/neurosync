@@ -60,3 +60,14 @@
   border-radius: var(--radius);
   transition: .5s cubic-bezier(.22,1,.36,1);
 }
+ 
+
+
+.module__price {
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--cyan);
+  margin-top: 8px;
+  margin-bottom: 12px;
+}
